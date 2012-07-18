@@ -27,6 +27,7 @@ Extra features
 * onText
 * offText
 * resize the frame to whatever you want to make fatter/skinnier controls
+* ignoreTap: this boolean allows you to lock the switch
 
 License
 -------
