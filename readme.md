@@ -1,9 +1,7 @@
 DCRoundSwitch
 ============
 
-Twitter: [@patr](http://twitter.com/patr)
-
-Our commercial apps: [domesticcat.com.au](http://domesticcat.com.au/apps)
+Project created by Patr ([@patr](http://twitter.com/patr), [domesticcat.com.au](http://domesticcat.com.au/apps)), edited by [Zadia Software](http://www.zadiasoftware.com)
 
 About
 -----
